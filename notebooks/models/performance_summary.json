@@ -1,0 +1,12 @@
+{
+  "Random Forest": {
+    "brier_score_original": 0.09127103143352279,
+    "auc_score": 0.6625850449911783,
+    "brier_score_calibrated": 0.09116424856464778
+  },
+  "XGBoost": {
+    "brier_score_original": 0.09116808257382626,
+    "auc_score": 0.6680678763212549,
+    "brier_score_calibrated": 0.09102876556422768
+  }
+}
